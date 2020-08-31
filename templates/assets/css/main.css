@@ -1,0 +1,16 @@
+body, html { margin: 0 auto; }
+body {
+	background-color: #F1F8FF;
+}
+section.container {
+	display: block;
+	height: auto;
+	min-height: 400px;
+	margin: 20px 25%;
+	width: 50%;
+}
+.logo {
+	display: inline-block;
+	height: auto;
+	width: 200px;
+}

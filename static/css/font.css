@@ -1,0 +1,97 @@
+/* #### Biotif ---*** #### */
+@font-face {
+    font-family: 'Biotif Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Black'), url('../fonts/Biotif-Black.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Black Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Black Italic'), url('../fonts/Biotif-BlackItalic.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Bold'), url('../fonts/Biotif-Bold.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Bold Italic'), url('../fonts/Biotif-BoldItalic.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Book';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Book'), url('../fonts/Biotif-Book.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Book Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Book Italic'), url('../fonts/Biotif-BookItalic.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Extra Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Extra Bold'), url('../fonts/Biotif-ExtraBold.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Extra Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Extra Bold Italic'), url('../fonts/Biotif-ExtraBoldItalic.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Light'), url('../fonts/Biotif-Light.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Light Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Light Italics'), url('../fonts/Biotif-LightItalic.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Medium'), url('../fonts/Biotif-Medium.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Medium Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Medium Italics'), url('../fonts/Biotif-MediumItalic.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Regular'), url('../fonts/Biotif-Regular.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif Regular Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif Regular Italics'), url('../fonts/Biotif-RegularItalic.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif SemiBold'), url('../fonts/Biotif-SemiBold.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Biotif SemiBold Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Biotif SemiBold Italics'), url('../fonts/Biotif-SemiBoldItalic.ttf') format('ttf');
+}
